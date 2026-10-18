@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "name": "Ajay",
+    "age": 20,
+    "major": "Computer Science",
+    "collegeId": "101"
+  },
+  {
+    "id": "2",
+    "name": "Vijay",
+    "age": 22,
+    "major": "Mathematics",
+    "collegeId": "102"
+  }
+]
